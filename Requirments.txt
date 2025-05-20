@@ -1,0 +1,7 @@
+Requirments :
+* Revenue by State
+* Revenue based on month of the year
+* Revenue based on Age
+* Quantity vs Discount Percentage Correlation
+* Percentage of Revenue per Region
+* Revenue Per Category per Gender
